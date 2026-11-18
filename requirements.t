@@ -1,0 +1,10 @@
+Flask==3.0.0
+Flask-SocketIO==5.3.6
+Flask-Login==0.6.3
+Flask-WTF==1.2.1
+Werkzeug==3.0.1
+python-socketio==5.11.0
+python-engineio==4.8.0
+eventlet==0.35.1
+Pillow==10.2.0
+python-dotenv==1.0.0
